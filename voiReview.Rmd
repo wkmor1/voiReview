@@ -117,7 +117,7 @@ Another commonly encountered form of EVI is the partial expected value of perfec
 (\#eq:EVPXI)
 \end{equation}
 
-Here $EVWPXI_{s_i}$ is the partial expected value with perfect information for the component of uncertainty ${s_i}$ such that:
+Here $\mathrm{EVWPXI}_{s_i}$ is the partial expected value with perfect information for the component of uncertainty ${s_i}$ such that:
 
 \begin{equation}
 \mathrm{EVWPXI}_{s_i} = \mathrm{E}_{s_i}[\mathrm{max}_a\mathrm{E}_{s_j}[v(a, s)]]
